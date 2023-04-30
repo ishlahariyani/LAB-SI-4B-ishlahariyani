@@ -231,7 +231,7 @@
   </section>
 
   <section class="portofolio" id="portofolio">
-    <h2 class="heading2">- Ishlah's <span>Project -</span></h2>
+    <h2 class="heading2">-- Ishlah's <span>Project --</span></h2>
 
     <div class="portofolio-container">
       <div class="portofolio-box">
